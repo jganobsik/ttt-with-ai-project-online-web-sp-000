@@ -1,5 +1,5 @@
 class Board 
-
+#comment
 attr_accessor :cells, :current_token 
 
 def initialize
