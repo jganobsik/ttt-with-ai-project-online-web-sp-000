@@ -1,5 +1,5 @@
 class Player
-  
+  #comment
   attr_accessor  :type
   attr_reader :token
   
